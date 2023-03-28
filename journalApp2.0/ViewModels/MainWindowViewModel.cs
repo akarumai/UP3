@@ -7,7 +7,7 @@ using journalApp2._0.ViewModels.Base;
 
 namespace journalApp2._0.ViewModels
 {
-    class MainWindowViewModel : ViewModel
+    internal class MainWindowViewModel : ViewModel
     {
         private string title="УП наше крутое";
         /// <summary>
